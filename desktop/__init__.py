@@ -1,0 +1,4 @@
+"""
+Desktop Voice & Live Meeting Assistant Package
+"""
+__version__ = "1.0.0"

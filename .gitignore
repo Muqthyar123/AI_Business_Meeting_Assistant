@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+
+# Node / Frontend (for future frontend)
+node_modules/
+dist/
+.dist/
+.vite/
+
+# Secrets and Environment
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Uploads & Temporary Media
+uploads/
+temp/
+tmp/
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.webm
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
