@@ -1,0 +1,9 @@
+pyttsx3==2.90
+numpy==1.26.4
+sounddevice==0.4.6
+faster-whisper>=1.0.0
+pynput==1.7.6
+pyperclip==1.8.2
+pyautogui==0.9.54
+
+# pip install -r requirements.txt
